@@ -1,0 +1,12 @@
+notebook
+ipykernel
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+plotly
+fastapi
+uvicorn
+streamlit
+requests
